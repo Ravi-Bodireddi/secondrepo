@@ -1,0 +1,2 @@
+hey hello this my first repo from command line arguments
+
